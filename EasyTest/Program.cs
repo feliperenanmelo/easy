@@ -1,4 +1,4 @@
-﻿static bool WordIsUpperCase(string word)
+﻿static bool WordIsValid(string word)
 {
     var wordLenght = word.Length;
 
